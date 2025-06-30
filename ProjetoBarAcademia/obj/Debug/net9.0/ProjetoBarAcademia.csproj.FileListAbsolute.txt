@@ -1,0 +1,14 @@
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\bin\Debug\net9.0\ProjetoBarAcademia.exe
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\bin\Debug\net9.0\ProjetoBarAcademia.deps.json
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\bin\Debug\net9.0\ProjetoBarAcademia.runtimeconfig.json
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\bin\Debug\net9.0\ProjetoBarAcademia.dll
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\bin\Debug\net9.0\ProjetoBarAcademia.pdb
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\ProjetoBarAcademia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\ProjetoBarAcademia.AssemblyInfoInputs.cache
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\ProjetoBarAcademia.AssemblyInfo.cs
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\ProjetoBarAcademia.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\ProjetoBarAcademia.dll
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\refint\ProjetoBarAcademia.dll
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\ProjetoBarAcademia.pdb
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\ProjetoBarAcademia.genruntimeconfig.cache
+C:\Users\Carlos\RiderProjects\ProjetoBarAcademia\ProjetoBarAcademia\obj\Debug\net9.0\ref\ProjetoBarAcademia.dll
